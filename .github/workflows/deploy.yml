@@ -1,5 +1,4 @@
 name: Nodes.js CI
- jobs:
   build:
     runs-on: ubuntu-latest
    strategy:
