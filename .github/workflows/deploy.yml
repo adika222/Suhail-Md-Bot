@@ -1,8 +1,4 @@
 name: Nodes.js CI
-
-on:
-  push:
-     branches:
  jobs:
   build:
     runs-on: ubuntu-latest
